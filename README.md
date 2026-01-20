@@ -1,5 +1,13 @@
-# 💫 About Me:
-I am Grey hat hacker<br>
+<h2 align="center">
+    <a href="https://sulimanhacker.blogspot.com">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=1&pause=1&center=true&vCenter=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Suliman+Hacker!" alt="Suliman Hacker" />
+    </a>
+</h2>
+<div align="center">
+    <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms3YjRvOGozZHR5OGsyZzA3bzVrb3F4aWloejNydWJ3ZHkwMDF1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DqiMTFxiXx0VaVZQbF/giphy.webp" width = 15% alt="vincgo3" />
+    <h3 align="center">About me 🙋‍♂️</h3>
+</div>
+
 
 
 ## 🌐 Socials:
