@@ -4,7 +4,7 @@
     </a>
 </h2>
 <div align="center">
-    <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbms3YjRvOGozZHR5OGsyZzA3bzVrb3F4aWloejNydWJ3ZHkwMDF1MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/DqiMTFxiXx0VaVZQbF/giphy.webp" width = 15% alt="vincgo3" />
+    <img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMyBrtHx5Yz4QBjewSWwP3gTXUOCRjZ6oibQKqsh7OHo3i3J4te9B50QjNRDJFnV35rEdu_fomoTKx0bKZNn2ZHNzb8fiW56TWcNqXZc48psspjbY-Q17eEOEP3vmUKCg/s220/IMG_20210415_143741_883.jpg" width = 15% alt="vincgo3" />
     <h3 align="center">About me 🙋‍♂️</h3>
 </div>
 
