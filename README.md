@@ -11,6 +11,7 @@
 
 
 ## 🌐 Socials:
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sulimanhacker.blogspot.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sulimanhacker_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sulimanhacker) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/SulimanHacker) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@SulimanHacker) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SulimanChannel) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SulimanHacker1&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
