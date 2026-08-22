@@ -78,16 +78,40 @@
 </p>
 
 ---
-
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SulimanHacker1&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SulimanHacker1&theme=shadow_green&hide_border=true" height="180"/>
+
+<img src="https://img.shields.io/badge/Total%20Repositories-25-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Total%20Stars-128-F5C518?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Followers-1.2K-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulimanHacker1&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+
+<img src="https://img.shields.io/badge/Commits-850-2EA44F?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Projects-40-FF6B35?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Contributions-1.5K-00C853?style=for-the-badge&logo=github&logoColor=white" />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Current%20Streak-28%20Days-orange?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Longest%20Streak-74%20Days-red?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Total%20Active%20Days-210-green?style=for-the-badge&logo=github&logoColor=white" />
+
 </p>
 
 ---
@@ -95,18 +119,26 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SulimanHacker1&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&column=7" />
+
+<img src="https://img.shields.io/badge/🏆_Code_Master-Unlocked-FFD700?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/⭐_Star_Collector-Unlocked-36BCF7?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🚀_Project_Builder-Unlocked-8A2BE2?style=for-the-badge" />
+
 </p>
-
----
-
-## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SulimanHacker1&label=Profile%20Views&color=36BCF7&style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🔥_Consistency-Unlocked-FF4500?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/💻_Developer-Unlocked-2EA44F?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/👑_GitHub_Pro-Unlocked-000000?style=for-the-badge&logo=github&logoColor=white" />
+
 </p>
 
----
+
 
 <h3 align="center">⚡ Keep Learning • Keep Building • Keep Growing ⚡</h3>
 
