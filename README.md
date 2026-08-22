@@ -5,7 +5,7 @@
 </h2>
 <div align="center">
     <img src = "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMyBrtHx5Yz4QBjewSWwP3gTXUOCRjZ6oibQKqsh7OHo3i3J4te9B50QjNRDJFnV35rEdu_fomoTKx0bKZNn2ZHNzb8fiW56TWcNqXZc48psspjbY-Q17eEOEP3vmUKCg/s220/IMG_20210415_143741_883.jpg" width = 15% alt="vincgo3" />
-    <h3 align="center">About me 🙋‍♂️</h3>
+    <h3 align="center">About me 🙋‍♂️ i am Hacker, Carder, Grapic desginer, Develper </h3>
 </div>
 
 
