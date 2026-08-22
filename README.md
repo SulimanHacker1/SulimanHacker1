@@ -12,7 +12,7 @@
 
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sulimanhacker.blogspot.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sulimanhacker_) [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=Telegram&logoColor=white)](https://t.me/+HvWKtL4Bz204YTk0) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@SulimanHacker) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SulimanChannel) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sulimanhacker_) [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=Telegram&logoColor=white)](https://t.me/+HvWKtL4Bz204YTk0) [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=WhatsApp&logoColor=white)](https://www.whatsapp.com/channel/0029VaTAUYR7NoZz11G91F0f)[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@SulimanHacker) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SulimanChannel) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sulimanhacker)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SulimanHacker1&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
